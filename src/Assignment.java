@@ -6,4 +6,4 @@
  * @version 1.0.0 February 2013
  */
 public class Assignment extends Event  {
-} // end class Social
+} // end class Assignment

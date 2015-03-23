@@ -1,10 +1,11 @@
 // import statements
 import java.util.Scanner;
 /**
- * This class loops options to allow a user to enter activities into a planner. Used
- * with the OurDate, OurTime, Event, and Planner classes.
+ * This class loops options to allow a user to enter activities into a planner. Makes
+ * use of the Planner class to create Events to be added to the activity planner.
  * @author Richard Barney
  * @version 1.0.0 January 2013
+ * @since 1.7
  */
 public class Assign2 {
 	/**
