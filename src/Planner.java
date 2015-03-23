@@ -3,7 +3,7 @@
  * an array of Events to add a date, time, and event for an
  * activity and adds it to the personal planner.
  * @author Richard Barney
- * @version 1.0.0 January 2013 
+ * @version 1.0.0 February 2013 
  */
 public class Planner {
 

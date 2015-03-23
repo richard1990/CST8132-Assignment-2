@@ -4,7 +4,7 @@ import java.util.Scanner;
  * This class models a time. Most of the code was provided by
  * my professor, while I was responsible for user input.
  * @author Prof. Linda Crane, Richard Barney
- * @version 1.0.0 January 2013
+ * @version 1.0.0 February 2013
  */
 public class OurTime {
 	

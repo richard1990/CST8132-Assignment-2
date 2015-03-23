@@ -5,7 +5,7 @@ import java.util.Scanner;
  * and Planner classes. User will be able to enter a date, time,
  * and description of event.
  * @author Richard Barney
- * @version 1.0.0 January 2013
+ * @version 1.0.0 February 2013
  */
 public class Event {
 

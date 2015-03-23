@@ -4,7 +4,7 @@ import java.util.Scanner;
  * This class models a date. Most of the code was provided by
  * my professor, while I was responsible for the user input.
  * @author Prof. Linda Crane, Richard Barney
- * @version 1.0.0 January 2013
+ * @version 1.0.0 February 2013
  */
 public class OurDate {
 	
